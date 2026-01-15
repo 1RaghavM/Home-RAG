@@ -1,0 +1,6 @@
+fastapi
+ollama
+chromadb
+newsapi-python
+duckduckgo-search
+apscheduler
