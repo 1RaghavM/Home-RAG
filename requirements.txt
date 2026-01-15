@@ -1,6 +1,8 @@
-fastapi
-ollama
 chromadb
 newsapi-python
 duckduckgo-search
-apscheduler
+schedule
+edge_tts
+pygame
+SpeechRecognition
+pyaudio
